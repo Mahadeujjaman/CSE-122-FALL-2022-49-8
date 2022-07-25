@@ -1,0 +1,17 @@
+//codeforces problem no 4A
+//problem name watermelon
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    int w;
+    cout<<"Enter the value of Watermelon "<<endl;
+    cin>>w;
+    if(w>0 &&w<100 && w%2==0 && w!2=0)
+        cout<<" yes"<<endl;
+    else
+        cout<<"no"<<endl;
+
+    return 0;
+}
